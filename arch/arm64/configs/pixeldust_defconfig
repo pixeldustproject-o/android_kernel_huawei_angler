@@ -1,7 +1,7 @@
 # ----------------------------------------------------------------------------------
-# ABCrom kernel config
+# PixelDustROM kernel config
 # ----------------------------------------------------------------------------------
-CONFIG_LOCALVERSION="-ABCkernel-Oreo_1.0"
+CONFIG_LOCALVERSION="-PixelDust-Oreo_1.0"
 # CONFIG_LOCALVERSION_AUTO is not set
 # CONFIG_CC_OPTIMIZE_FOR_SIZE is not set
 CONFIG_FB_MSM_MDSS_HDMI_PANEL=y
